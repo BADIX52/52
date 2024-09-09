@@ -1,0 +1,11 @@
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\Алфёров Байков\badix52\badix52\obj\Debug\badix52.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\Алфёров Байков\badix52\badix52\obj\Debug\badix52.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\Алфёров Байков\badix52\badix52\obj\Debug\badix52.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\Алфёров Байков\badix52\badix52\obj\Debug\badix52.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\Алфёров Байков\badix52\badix52\obj\Debug\badix52.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\Алфёров Байков\badix52\badix52\obj\Debug\badix52.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\Алфёров Байков\badix52\badix52\bin\Debug\badix52.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\Алфёров Байков\badix52\badix52\bin\Debug\badix52.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\Алфёров Байков\badix52\badix52\bin\Debug\badix52.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\Алфёров Байков\badix52\badix52\obj\Debug\badix52.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\Алфёров Байков\badix52\badix52\obj\Debug\badix52.pdb
